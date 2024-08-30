@@ -12,5 +12,9 @@ namespace ConsoleAppGithub
         {
             Console.WriteLine("Emmas");
         }
+         public void print2()
+        {
+            Console.WriteLine("Emmas");
+        }
     }
 }
