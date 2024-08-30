@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleAppGithub
 {
-    internal class Peters
+    internal class Emmas
     {
+        public void print()
+        {
+            Console.WriteLine("Emmas");
+        }
     }
 }
